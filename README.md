@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MPuke
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently making things in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
